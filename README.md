@@ -22,9 +22,10 @@ Welcome to the **Educational Movie Generator**! This project uses the power of g
 
 ## 🚀 Future Opportunities
 
-- **Multi-Subject Support**: Extend the project to cover all educational topics, not just math and physics.
+- **Multi-Subject Support**: Extend the project to cover all educational topics.
 - **Interactive Learning**: Incorporate quizzes and interactive elements into the videos.
 - **Real-Time Feedback**: Implement a feedback mechanism for students to assess their understanding.
+- **Visual Blackboard for Math**: For complex math problems, the project could include a feature that visually writes out step-by-step solutions on a blackboard, similar to how a teacher would explain it, but in a simplified and engaging manner.
 
 ## 🛠️ Installation & Usage
 
