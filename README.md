@@ -37,5 +37,5 @@ pip install datasets diffusers google-generativeai torch soundfile moviepy trans
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/athish.sivakumaran/educational-movie-generator.git
+   git clone https://github.com/athish.sivakumaran/AI_learning.git
 
